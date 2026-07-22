@@ -18,3 +18,5 @@ Esta es una aplicación web frontend desarrollada con **React** y **Vite**, cone
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/Dulce421/mi-proyecto-react.git](https://github.com/Dulce421/mi-proyecto-react.git)
+
+   //HOLA//
